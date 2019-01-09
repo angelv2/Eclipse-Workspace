@@ -1,6 +1,8 @@
 package turotialpackage;
 
-public class TestInvoice {	
+public class TestInvoice {
+	
+
 		
 		/**
 		 * this will run the invoice method
@@ -64,8 +66,8 @@ public class TestInvoice {
 			
 			runInvoice(c3,in3); //runs invoice
 			
-		}//end main
+		}
 		
-	}//end class TestInvoice
+	}
 
 

@@ -26,8 +26,8 @@ public class TestCustomer {
 			
 			
 
-		}//end main
+		}
 
-	}//end class TestCustomer
+	}
 
 

@@ -54,7 +54,7 @@ public class LineItem {
 		 */
 		public String toString() { // This will return the values of all variables in the LineItem method
 			return ("Quantity: " + qty + " " + theProduct); 
-		}//end toString
+		}
 		
 	}
 

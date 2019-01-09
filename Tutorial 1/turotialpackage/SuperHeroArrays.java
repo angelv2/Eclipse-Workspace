@@ -4,7 +4,7 @@ public class SuperHeroArrays {
 
 	public static void main(String[] args) { 
 		String[] superheroArray = {" Spiderman"," Batman", " Thor", " Captain America"," The Flash"}; // shows the superhero names
-		boolean[] isHumanArray = {false, true, false, false, false }; // which superhero is human or not
+		boolean[] isHumanArray = {true, true, false, true, true }; // which superhero is human or not
 		String[] superPowerArray = {"Webs and super human strength.","Gadgets.","Hammer and God of Thunder.","Shields and super human strength.","Speed and Time Travel."}; // Superhero Powers
 		
 		System.out.println(superheroArray[0]); // Prints the first element in the array
